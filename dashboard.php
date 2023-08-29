@@ -251,8 +251,8 @@ text-decoration: none;
           
           <div id="mySidebar" class="sidebar">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
+            <a href="#">About Us</a>
+            <a href="#">Contact Us`</a>
             <a href="menu_list.php">Menu</a>
             <a href="image.php">my delti </a>
           </div>
